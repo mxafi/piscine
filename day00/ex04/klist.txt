@@ -1,0 +1,5 @@
+Credentials cache: API:5180
+        Principal: malaakso@HIVE.FI
+
+  Issued                Expires               Principal
+Jun 27 18:28:30 2022  Jun 28 04:28:30 2022  krbtgt/HIVE.FI@HIVE.FI

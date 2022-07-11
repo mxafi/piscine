@@ -1,0 +1,6 @@
+
+#------------------------------------------------------------------------------
+# $File: magic,v 1.10 2010/11/25 15:00:12 christos Exp $
+# magic:  file(1) magic for magic files
+#
+0x29	string	42	filetype 42
