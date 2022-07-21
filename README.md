@@ -4,12 +4,8 @@ I can't guarantee that the answers are correct or even remotely usable.
 You should not be looking at this repository for copy-paste answers.
 
 ## Todo
-- [ ] day09
-- [ ] day13
-- [ ] rush02
-- [ ] evalexpr
-- [ ] bsq
 - [ ] exam-final
+- [ ] get_into_the_school?
 
 ## Moulinette
 
@@ -70,7 +66,7 @@ Missing peer-evaluation replaced by a 0 - I gave up on this day, ex00 not comple
 
 ### day09 (30 - success)
 ```
-WIP
+ex00: OK | ex01: KO | ex02: KO | ex03: OK | ex04: Nothing turned in | ex05: Nothing turned in | ex06: Nothing turned in | ex07: Nothing turned in | ex08: Nothing turned in | ex09: KO | ex10: Nothing turned in | ex11: Nothing turned in | ex12: Nothing turned in | ex13: Nothing turned in | ex14: Nothing turned in | ex15: Nothing turned in | ex16: Nothing turned in | ex17: Nothing turned in | ex18: Nothing turned in | ex19: Nothing turned in | ex20: OK | ex21: Nothing turned in | ex22: OK | ex23: OK
 ```
 
 ### rush01 (80 - success)
@@ -98,24 +94,24 @@ ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex0
 ex00: OK | ex01: OK | ex02: Nothing turned in | ex03: Nothing turned in | ex04: Nothing turned in
 ```
 
-### day13
+### day13 (40 - success)
 ```
-WIP
-```
-
-### rush02
-```
-WIP
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: Nothing turned in | ex06: Nothing turned in | ex07: Nothing turned in | ex08: Nothing turned in | ex09: Nothing turned in
 ```
 
-### evalexpr
+### rush02 (100 - success)
 ```
-WIP
+Great work ! All good in repository, norminette and makefile ok. Good that you have protected and freed your mallocs. Good naming with variables and files. Code is structured well and all team members were able to explain it. Quite impressive work overall with solutions. And I could see you have put lot of effort in to your work. Good luck with rest of the piscine :)
 ```
 
-### bsq
+### evalexpr (0 - fail)
 ```
-WIP
+Missing peer-evaluation replaced by a 0 - I gave up on this project, not enough time to complete.
+```
+
+### bsq (0 - fail)
+```
+basic_tests: One parameter KO | functional_tests: Test 1 KO - Extra newlines on output, also memory madness when map size is around 100x100.
 ```
 
 ## Exam results
