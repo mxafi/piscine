@@ -4,8 +4,7 @@ I can't guarantee that the answers are correct or even remotely usable.
 You should not be looking at this repository for copy-paste answers.
 
 ## Todo
-- [ ] exam-final
-- [ ] get_into_the_school?
+- [x] get_into_the_school!
 
 ## Moulinette
 
@@ -119,5 +118,7 @@ basic_tests: One parameter KO | functional_tests: Test 1 KO - Extra newlines on 
 exam00: 60 - success
 exam01: 64 - success
 exam02: 80 - success
-exam-final: WIP
+exam-final: 45 - success?
 ```
+### Piscine results
+I passed the Piscine and got into the school!
